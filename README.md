@@ -15,4 +15,4 @@ To be hones there are so many widgets but I am still learning
 
 
 
-<img src="https://user-images.githubusercontent.com/42458038/112880764-7b1b2900-9090-11eb-93f5-08d4f322585d.png" height="50%" width="50%">
+<img src="https://user-images.githubusercontent.com/42458038/112880764-7b1b2900-9090-11eb-93f5-08d4f322585d.png" height="30%" width="30%">
