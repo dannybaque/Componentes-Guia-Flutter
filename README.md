@@ -14,4 +14,4 @@ There are some important methods that makes it feels more comprensible.
 To be hones there are so many widgets but I am still learning
 
 
-![Componentes de Flutter](https://user-images.githubusercontent.com/42458038/112880764-7b1b2900-9090-11eb-93f5-08d4f322585d.png){:class="img-responsive"}
+![Componentes de Flutter](https://user-images.githubusercontent.com/42458038/112880764-7b1b2900-9090-11eb-93f5-08d4f322585d.png){:height="50%" with="50%"}
