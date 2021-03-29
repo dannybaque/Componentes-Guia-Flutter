@@ -1,16 +1,16 @@
-# flutter_application_2
+# learning Flutter's components
 
-A new Flutter project.
+I have been taking a some lessons of Flutter
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+I left some text coments to explain some code that I did not understand when I was coding
+that is why.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+In this project, You will see How to some Widgets works and also how to make it work properly.
+There are some important methods that makes it feels more comprensible.
+To be hones there are so many widgets but I am still learning
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
